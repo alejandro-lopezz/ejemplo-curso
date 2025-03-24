@@ -14,6 +14,7 @@ namespace controles
     {
         public frmPrincipal()
         {
+            //le agrego un comentario al archivo. 
             InitializeComponent();
         }
 
